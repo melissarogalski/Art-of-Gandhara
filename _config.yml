@@ -9,12 +9,12 @@
 #
 # url is site domain, full URL to the production location of your collection
 # on GitHub Pages follows the pattern username.github.io
-#url: https://collectionbuilder.github.io 
+url: https://melissarogalski.github.io
 # baseurl is path to location on the domain if necessary e.g. /digital/hjccc
 # on GitHub Pages it is your github repository's name prefixed with a /
-#baseurl: /collectionbuilder-gh 
+baseurl: /Art-of-Gandhara/
 # location of code, the full url to your github repository
-source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
+source-code: https://melissarogalski.github.io/Art-of-Gandhara/
 
 ##########
 # SITE SETTINGS
@@ -25,7 +25,7 @@ title: Buddhist Art from Gandhara
 tagline: a digital collection of buddhist artefacts in a german museum
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Exploring the buddhist artefacts from Gandhara from the museum Forum der Völker in Germany"
+description: "Exploring a small collection of buddhist artefacts from Gandhara from the museum Forum der Völker in Germany"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Melissa Rogalski
 
