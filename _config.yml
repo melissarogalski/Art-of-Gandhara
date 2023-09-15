@@ -22,12 +22,13 @@ source-code: https://melissarogalski.github.io/Art-of-Gandhara/
 # title of site appears in banner
 title: Buddhist Art from Gandhara
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a digital collection of buddhist artefacts in a german museum
+tagline: A digitalized collection of buddhist art from Gandhara in a german mission museum
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Exploring a small collection of buddhist artefacts from Gandhara from the museum Forum der Völker in Germany"
+description: "What exactly is the region of Gandhara? nd what is its connection to Buddhism? How do these objects end up in a german mission museum, and what do they tell us about buddhism and Gandhara? This  & more shall be explored through digitalizing those objects."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Melissa Rogalski
+"theme": minima
 
 ##########
 # COLLECTION SETTINGS
@@ -41,8 +42,8 @@ metadata:
 #   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #
  organization-name: "Center for religious studies (CERES)"
-# organization-link: https://cdil.lib.uidaho.edu/
-# organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
+ organization-link: https://ceres.rub.de/de/
+ organization-logo-banner: https://images.app.goo.gl/QXMp6qAPU9q5ovuV7
 # organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
 
 
