@@ -12,7 +12,7 @@ featured-image: IMG_9
 # optional: add extra padding around collection title for a larger image feature. 
 home-title-y-padding: 10em # Default is 8em
 # optional: change position of background image, center, top, bottom
-home-banner-image-position:  Default is center
+home-banner-image-position: # Default is center
 
 ##########
 # ITEM PAGE
@@ -95,7 +95,7 @@ bootswatch: # leave blank or comment out for plain bootstrap
 # THEME FONTS
 base-font-size: 1.2em
 text-color: "#614051"
-link-color: "#7E587E"
+link-color: "#86608E"
 base-font-family: # comment out for bootstrap defaults. e.g. Roboto
 font-cdn: # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
 
