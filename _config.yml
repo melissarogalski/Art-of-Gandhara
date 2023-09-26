@@ -36,14 +36,13 @@ author: Melissa Rogalski
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
 metadata: "csv_tabelle"
-
 ##########
 # Site/Organization Branding 
 #   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #
- organization-name: "Center for religious studies (CERES)"
- organization-link: https://ceres.rub.de/de/
- organization-logo-banner: https://images.app.goo.gl/QXMp6qAPU9q5ovuV7
+organization-name: "Center for religious studies (CERES)"
+organization-link: https://ceres.rub.de/de/
+organization-logo-banner: https://images.app.goo.gl/QXMp6qAPU9q5ovuV7
 organization-logo-nav: https://images.app.goo.gl/QXMp6qAPU9q5ovuV7
 
 
