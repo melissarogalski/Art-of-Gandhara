@@ -18,7 +18,6 @@ source-code: https://melissarogalski.github.io/Art-of-Gandhara/
 
 ##########
 # SITE SETTINGS
-remote_theme: pages-themes/time-machine@v0.2.0
 # title of site appears in banner
 title: Buddhist Art from Gandhara
 # tagline, a short phrase that will appear throughout the site in the top banner
@@ -45,6 +44,7 @@ organization-link: https://ceres.rub.de/de/
 organization-logo-banner: https://images.app.goo.gl/QXMp6qAPU9q5ovuV7
 organization-logo-nav: https://images.app.goo.gl/QXMp6qAPU9q5ovuV7
 
+theme: jekyll-theme-time-machine
 
 
 ##########
