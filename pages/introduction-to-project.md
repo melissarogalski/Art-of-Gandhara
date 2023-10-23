@@ -8,7 +8,7 @@ permalink: /introduction.html
 cloud-fields: site.data.theme.subjects-fields
 ---
 
-## Itroduction
+## Introduction
 
 
 How does one come to dedicate an entire website, which first has to be built as well, enhanced by an endlessly seeming blog, to the digitalisation of 13 inconspicuous buddhist objects coming from the ancient region of Gandhara in Pakistan, standing in an museum in the small city of Werl in Germany which is currently closed anyways? The answer is, that a bachelor student, I, Melissa Rogalski is doing their first research project, combining researching about building their own website to portray photographed objects, and researching about Gandhara, the region which is often overlooked although of its buddhist heritage as well. 
