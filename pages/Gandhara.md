@@ -55,7 +55,7 @@ Instead of negating specific musculature and facial expression as was common in 
 
 For westerners, the classical Greek and Roman influence on the art made them so very interesting, or maybe even more the fact that it was merged with the Indian style coming up with something completely new.
 
-When talking about the art of Gandhara, mainly meant is the art from Greater Gandhara from the beginning of the common era until the 5. century. The first peak of arts making has been in the 2nd century. As mentioned before, this art was highly influenced by Hellenism, somehow just 500 years after the conquest of Alexander the Great in Gandhara. But how come? 
+When talking about the art of Gandhara, mainly meant is the art from Greater Gandhara from the beginning of the common era until the 5th century. The first peak of arts making has been in the 2nd century. As mentioned before, this art was highly influenced by Hellenism, somehow just 500 years after the conquest of Alexander the Great in Gandhara. But how come? 
 
 The Greek influence has been kept up for so long, that it influenced the Buddhist art centuries after, since after proven by coins, the Greek culture was established in areas of Gandhara just as if it wasn’t something foreign. Therefore, Taxila was still rules by Indo-Greek kings in the first century after the common era keeping up the Greek culture brought to Gandhara, which was inhabited by Indians originally. Greek, but also Roman contact was also kept up due to the Greeks in Bactria, and due to the establishment of the Silk Road leading to trade with Rome. 
 
@@ -69,6 +69,26 @@ In the beginning in the first century A.D., depictions of Buddha Sakyamuni being
 
 Figures of bodhisattvas crafted from new materials as clay, stucco, and terracotta though only seemed to appear in a late phase of Gandharan art, when Mahayana Buddhism seems to be almost fully developed. After, depictions of an idealised teaching Buddha sitting in the lotus seat emerged, which seemed to be a product of the following Gupta Dynasty, until the making of Buddhist art in Gandhara came to an end in the 6th century.
 
+## Reappraisal of the Buddhist heritage
+As we’ve already learned now, Buddhism in Gandhara basically died out from the 6th century on and completely vanished about in the year 1000. Since both Pakistan and Afghanistan are now both muslim countries, it’s interesting how they handle their Buddhist heritage, which will be discussed shortly, followed by chapters about museums in Gandhara in addition.
+
+To begin with the Afghan part of Gandhara, I’m sure everyone has heard about the bombing in Bamiyan. In 2001, the Taliban destroyed some of the oldest Buddhist statues portraying Buddha Dipamjara being 53 meters high which were chiselled in massive stone from the 6th century, and therefore destroyed the most important objects of their Buddhist past. The reason was them being unislamic idols that are a proof of the fact that other religions existed in Afghanistan before Islam, though they haven’t been used as religious objects anymore. 
+
+They even destroyed Buddhist art from the national museum in Kabul, basically to erase the Buddhist history. While other countries as Japan and France tried to save and reconstruct parts of the destruction in Bamiyan, even before Afghanistan itself has been trying to protect the Buddhist remains. In the 1990s objects were brought to Switzerland to save them from the Taliban and the civil war, recognising that they’re part of the countries past to be saved. 
+
+But the attempts of the democratic government from 2004-2021 were unsuccessful in many parts unfortunately. It has been decided in 2011, that the remains from Bamiyan should be portrayed in a museum, and there were other excavations in Bamiyan going on as there is a museum in Bamiyan to betray the founded objects, but with the Taliban taking over the government in 2021, they stole and sold objects from this museum, especially Buddha heads.
+
+Clearly, the Taliban aren’t representatives of the country, and there have been protests by Muslims about the “destruction of culture”, as the UNESCO called it, and of course there’s archeologists, museum curators, historians and more people working to preserve Buddhist object from the Taliban, even now.
+
+Pakistans handling of the Buddhist past seems harder to approach. It doesn’t seem visible at first, as most people wouldn’t connect Pakistan with Buddhism directly, but still the legacy is visible in the country today- even after vagaries of centuries. A lot of heritage in craft, art and religious objects have been preserved and are being presented in plenty museums, which will be talked about later, and the preservation of buddhist sites and archeological excavations are still going on continuously. 
+
+Unfortunately, not only Afghanistan, but also Pakistan suffered under the Taliban. The Swat Valley as a part of Greater Gandhara and todays Pakistan is rich on buddhist carvings, statues and stupas. Sadly, the Taliban destroyed stupas and statues from the Kushan era, and even relics from  the Swat Valley.
+
+Still, despite Pakistan being an Islamic republic, they still try and want to preserve all cultural heritage and historical sites and monuments, even if they are from different faiths and religions as they see the importance of their Buddhist heritage. Therefore, they grant Buddhist visitors security  to visit the sacred sites of the country- unfortunately not for the masses.
+
+Pakistan namely also has six places declared as world heritage sites which the chance to even have more sites declared as such, and despise having more Buddhist sacred sites than India, it’s not even closely as famous for religious Buddhist tourists as India, as Pakistan isn’t actively promoting it, which might be since the country itself is mainly Muslim and sees the objects not as religious, but as cultural historical objects. Therefore, if the government wants to promote their sites as religious similar as India, the government would need to develop strategies to promote religious tourism which would also promote regional growth, as they have immense potential for tourism.
+
+So concluded, Pakistan is putting a lot of effort to preserve their Buddhist heritage by doing excavations and having museums portraying the objects for example, while still suffering from the destruction of objects and sites by the Taliban, and while not actively encouraging religious tourism. People from Afghanistan on the other hand have been and are trying to preserve what they’re able to, but are suffering under the Taliban regime which is actively destroying and erasing the Buddhist past.
 
 
 
