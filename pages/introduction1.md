@@ -2,7 +2,6 @@
 title: Introduction
 layout: about
 permalink: /Introduction.html
-a timeline visualization will be added below the content in this file
 ---
 
 ## Introduction to the project
