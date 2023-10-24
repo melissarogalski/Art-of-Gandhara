@@ -8,9 +8,9 @@ permalink: /welcome.html
 ---
 
 
-## Introduction to the project
+# Introduction to the project
 
-# Welcome!
+## Welcome!
 
 How does one come to dedicate an entire website, which first has to be built as well, enhanced by an endlessly seeming blog, to the digitalisation of 13 buddhist objects coming from the ancient region of Gandhara in Pakistan, standing in an museum in the small city of Werl in Germany which is currently closed anyways?
 
