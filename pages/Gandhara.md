@@ -6,7 +6,7 @@ permalink: /gandhara.html
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-## The ancient region of Gandhara
+# The ancient region of Gandhara
 When we begin a research project about a collection of items from Gandhara in a German mission museum, there are some important questions to consider. First, what exactly is Gandhara? Where is it located, and why haven't many of us heard about it before? Additionally, how is it related to Buddhism? These questions are intriguing, and answering them can be tricky because Gandhara has a long history filled with culture, history, and religion. Still, these questions will be answered on the following pages!
 
 The ancient region of Gandhara, situated in present-day northwest Pakistan, held a significant place in history. Its geographical location along the Silk Road, connecting to China, South Asia, and the Mediterranean, contributed to its prosperity, complementing the agricultural plains it possessed.
@@ -15,7 +15,7 @@ This region's historical importance is underscored by its early mentions in reli
 
 It's through these geographical distinctions that we categorize art from Greater Gandhara, which includes pieces from ancient Gandhara, the Swat Valley, and Afghanistan.
 
-# History of buddhism in Gandhara
+## History of buddhism in Gandhara
 
 To delve into Gandharan Art, it's essential to start with a brief overview of Buddhism's history in the greater Gandhara region. 
 
