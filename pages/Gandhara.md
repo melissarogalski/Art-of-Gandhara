@@ -15,4 +15,4 @@ This region's historical importance is underscored by its early mentions in reli
 
 It's through these geographical distinctions that we categorize art from Greater Gandhara, which includes pieces from ancient Gandhara, the Swat Valley, and Afghanistan.
 
-![Map of Gandhara](/least-github-pages/assets/img/Gandharamap.jpg.jpg)
+![Map of Gandhara](/least-github-pages/assets/img/map.jpg)
