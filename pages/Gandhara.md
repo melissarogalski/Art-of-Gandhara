@@ -39,7 +39,6 @@ In the Afghanistan region, Buddhism thrived in tandem with Afghan communities fr
 
 Nevertheless, the 8th to 9th century A.D marked the end of the Buddhist tradition here as well, finalised in the 14. century by the muslim invasion of the Indian subcontinent since the 12. century.
 
-
 ## Buddhism in Gandhara today 
 Buddhism in Gandhara since then practically died out. 
 
