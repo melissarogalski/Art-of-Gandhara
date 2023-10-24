@@ -48,6 +48,28 @@ Afghanistan counted 6282 buddhist in 2013, while being muslim by 99,9%. There is
 
 Therefore, it is clear how besides archeological remains, buddhism as a practised religion is only a part of the past of those countries, and besides people who try to keep up the historical heritage it isn’t present today by practise, but only by Remembrance of the heritage.
 
+## Greco-Buddhist Art in Gandhara
+When Gandharan art first was recognised by the West, it was highly appreciated. But why? The Gandharan art reminded of their own western art and the structures already seemed familiar. 
+
+Instead of negating specific musculature and facial expression as was common in art of the Indian subcontinent, classical art attributes, also even from Parthian influence shaped Gandharan art to their own character. While still of course having aspects from Indian art, as Gandhara still was part of ancient India, it was connected to the west, was it geographically or by trade or political invasions. Therefore, Gandharan crafts maker created heterogeneous art influenced by two sides.
+
+For westerners, the classical Greek and Roman influence on the art made them so very interesting, or maybe even more the fact that it was merged with the Indian style coming up with something completely new.
+
+When talking about the art of Gandhara, mainly meant is the art from Greater Gandhara from the beginning of the common era until the 5. century. The first peak of arts making has been in the 2nd century. As mentioned before, this art was highly influenced by Hellenism, somehow just 500 years after the conquest of Alexander the Great in Gandhara. But how come? 
+
+The Greek influence has been kept up for so long, that it influenced the Buddhist art centuries after, since after proven by coins, the Greek culture was established in areas of Gandhara just as if it wasn’t something foreign. Therefore, Taxila was still rules by Indo-Greek kings in the first century after the common era keeping up the Greek culture brought to Gandhara, which was inhabited by Indians originally. Greek, but also Roman contact was also kept up due to the Greeks in Bactria, and due to the establishment of the Silk Road leading to trade with Rome. 
+
+Still, it’s important to note that the Gandharan art still isn’t western, it stays an South Asian artistic form of art portraying Buddhism. Though the Greek influence is heavy, there’s also traces of the impact of Hinduism which was flourishing in Gandhara at the same time, just as influence of Parthian aesthetics of rigid depictions of bodies and even the Sassanid empire. 
+
+Therefore, the objects portray the political and cultural change which happened in Gandhara, from Buddhism being established besides Hinduism, from changes of dynasties and conquests from both western and asian sides.
+
+Surprisingly considering the impact of Buddhism on almost all regions of Asia, during this ancient period more sculptures, art and architecture has been made and found in greater Gandhara than anywhere else in South Asia, and this art has been in a state of changing from the beginning on showing different stages of Gandharan art, which were sometimes hard to date due to a lack of historical evidence and descriptions of the objects. Instead, datings were possible to do with the help of (greek) coins which are more easier to date.
+
+In the beginning in the first century A.D., depictions of Buddha Sakyamuni being venerated by Brahma and Indra were frequently to be found, the same accords the depiction of scenes from the life of Buddha which were found on every stupa. Also independent statues were created, not only depicting Buddha Sakyamuni but also sometimes previous Buddhas, as the six processors of the Buddha of our era. Noteworthy is, that no “unknown” Buddhas or Buddha fields were depicted at that time, showing that Mahayana Buddhism hasn’t fully developed yet at that time. 
+
+Figures of bodhisattvas crafted from new materials as clay, stucco, and terracotta though only seemed to appear in a late phase of Gandharan art, when Mahayana Buddhism seems to be almost fully developed. After, depictions of an idealised teaching Buddha sitting in the lotus seat emerged, which seemed to be a product of the following Gupta Dynasty, until the making of Buddhist art in Gandhara came to an end in the 6th century.
+
+
 
 
 
