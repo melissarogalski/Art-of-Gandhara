@@ -16,6 +16,9 @@ Before entering politics, he grew up during the Third Reich and, as a committed 
 
 In addition to his political and legal careers, he was an enthusiastic collector of foreign objects and art obtained during his travels. The Werl museum inherited parts of his collection, including a small collection of the objects from Gandhara. His collection also forms the entire collection of the room dedicated to Tibet in the museum, and a total of around 1,000 objects derive from his collection. The inheritance to the museum has been set in a testament he had established years prior to his passing. Sadly, he had already been in poor health, preventing him from providing intricate details regarding the origins and provenance of this extensive mass of objects.
 
+![Ernst Majonica](/Art-of-Gandhara/assets/majonica.jpg)
+Ernst Majonica
+
 ## How the objects from Gandhara came to Germany
 One of my main aims originally for this project was, to also find out a lot more about the provenance of these objects coming from Gandhara. Which sounded like a lot of fun in the beginning, turned out to be more difficult than expected due to the closing of the museum which currently makes me unable to do research in the museum. 
 
@@ -56,19 +59,31 @@ Firstly, a conspicuous absence of including them is evident on the museum's flye
 
 This lack of representation is also reflected on the museum's website, which was last updated in 2022.
 
+[Website of the museum](https://www.forum-der-voelker.de)
+
 The presentation of these objects is equally intriguing. Since there is no dedicated area for Buddhism or South Asia, objects from Gandhara are somewhat erroneously placed at the beginning of the section featuring objects from East Asia. 
+
+![Entry to the collection](/Art-of-Gandhara/assets/ostasien.jpg)
 
 Unfortunately, there is inadequate separation between the labels for these objects and those from East Asia, aside from a small note indicating that they are from Gandhara, Pakistan. 
 
+![](/Art-of-Gandhara/assets/separation.jpg)
+
 The collection includes 13 objects showcased in glass cabinets, though there is room for improvement in terms of lighting. Nonetheless, each object can be observed. Smaller objects share a raised white shelf against a brownish wall, while larger objects have their dedicated shelves. One object is inexplicably hanging on the wall without a label providing essential information, while the twelve others are provided with those information.
+
+
 
 There are two notable criticisms regarding the labelling. 
 
 Firstly, the numbering of objects goes from one to fourteen, but object number 11 does not originate from Gandhara; instead, it is attributed to Nepal or China. This arrangement can be misleading for viewers who may not notice the discrepancy. It would make more sense for this object to be placed elsewhere in the collection alongside Chinese objects or be designated as number 14 to maintain a clearer distinction between Gandhara and the other regions. 
 
+![Different Buddha head](/Art-of-Gandhara/assets/china.jpg)
+
 Secondly, after object 14, the numbering continues, showcasing Buddhist objects from East Asia, without a visible differentiation between these vastly different regions.
 
 In this section, a printed piece of paper is available for a fee of 0.10 euros, providing more detailed information about Buddhism, which is notably absent from the labels on the objects. This paper offers general information, beginning with Theravada Buddhism and explaining the Four Noble Truths and the Eightfold Path. It then delves into Mahayana Buddhism, crucial because of its prevalence in East Asia. The third form of Buddhism, Tantra, is also briefly mentioned, characterised as a mystical and occult variant of Buddhism with secret religious texts and mantras. While this paper provides a general and not bad overview of Buddhism, which could benefit from updates, it notably neglects to mention Gandhara, missing an opportunity to use objects from the collection as examples to elucidate the different developments of Buddhism.
+
+![Information paper](/Art-of-Gandhara/assets/info.jpg)
 
 Lastly, the official museum catalog published in 1989 includes objects from various regions, but none from Gandhara, since at that time they were not included in the collection yet.
 
