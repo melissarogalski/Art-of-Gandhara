@@ -7,7 +7,7 @@ permalink: /Gandharainwerl.html
 ---
 
 # Buddhist Objects from Gandhara in Werl
-In the Werl museum's East-Asia section, there are 13 objects from Gandhara. Among them, seven are Buddha andBbodhisattva heads, four are relief figures (one showing only the upper body of a bodhisattva), one depicts a scene from Buddha's life, and there's a horse's head. These objects all come from Gandhara, Pakistan, date back to 200-500 A.D, and come from the estate of the German Politician Ernst Majonica.  
+In the Werl museum's East-Asia section, there are 13 objects from Gandhara. Among them, seven are Buddha and Bodhisattva heads, four are relief figures (one showing only the upper body of a bodhisattva), one depicts a scene from Buddha's life, and there's a horse's head. These objects all come from Gandhara, Pakistan, date back to 200-500 A.D, and come from the estate of the German Politician Ernst Majonica.  
 
 ## Ernst Majonica
 Ernst Majonica was a politician born on October 29, 1920, in Soest, Germany, and he passed away on July 21, 1997, in the same town. During the 1950s and 60s, he was an important member (and also the youngest) of the German party CDU, which he represented in the German parliament. He was one of the few parliament members at that time who focused on foreign relations with East Asia. This led to multiple trips to the region, and he became the spokesperson for foreign affairs in 1959.
