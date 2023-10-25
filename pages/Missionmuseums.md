@@ -34,6 +34,9 @@ These objects were collected by about 95 missionaries and sisters and 16 monaste
 
 Despite undergoing multiple renovations and reorganisations since 1987, the museum is currently closed due to various reasons, mainly due to financial constraints.
 
+
+![](/Art-of-Gandhara/assets/werl.jpg)
+
 ## Museum’s Foundation and Historical Background 
 Previously known as a Missionary Museum, the museum was later rebranded as Forum der Völker. However, the original name already indicated that the objects primarily came from Franciscan monks who gathered them during their missionary activities across various regions to promote Christianity in Germany. These dedicated monks collected a wide array of everyday and ritual objects to provide insight into their missionary work. The museum asserted that the Franciscan monks were continuing a medieval tradition of collecting and depicting foreign cultures, viewing it as their duty to make these objects publicly accessible, especially in the region of Dorsten during that era.
 
@@ -66,7 +69,11 @@ When coming in, you stand in the (currently closed) museum store, which is also 
 
 The left entry is for the museum, and as you step in stand in the room containing the Egypt collection. It has black walls, enhancing the exhibited objects, and the centre of the room is an original mummy. 
 
+![Mumie](/Art-of-Gandhara/assets/mumie.jpg)
+
 Before entering the East Asia section, there’s a comparably small shelve of cuneiform tablets, which are actually more impressive than they seem if you know what those are. The East Asian section contains many objects which stand around unprotected, and look like what you would expect from East Asian objects - shrines and religious depictions for example.
+
+![](/Art-of-Gandhara/assets/shrine.jpg)
 
 When you take a turn to the left, you’re standing in front of the Gandhara objects, which sufficient as the start of the collection, followed by Chinese and Japanese objects. Here, the walls are white, and just as in the other part of the collection, the objects are behind glass shelves.
 It’s followed by two colourful rooms containing Chinese objects, which also consist of big objects such as shrines. 
@@ -75,4 +82,7 @@ The following section of Brasilia is comparably small of objects, but is enhance
 
 Next there are sections dedicated to African objects, some are declared as East African in an special area. Here, the exhibition seems less colourful, instead the focus is on the objects, which are divided into categories such as “power, gold and rituals”. There are also two dedicated rooms to Papua Neugin and one to only Nepal, and again I am questioning why some rooms are portrayed the way they are - colourful and playful with a lot of pictures, while others have plain white walls without any information boards.
 
-After having walked around all these areas, you’re again standing in the entrance hall.  
+After having walked around all these areas, you’re again standing in the entrance hall. 
+
+![Information board in the entrance](/Art-of-Gandhara/assets/infoboard.jpg)
+[360 degree walk through the museum](http://www.rundgang.forum-der-voelker.de)
