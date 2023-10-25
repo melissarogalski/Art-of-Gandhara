@@ -16,7 +16,7 @@ Before entering politics, he grew up during the Third Reich and, as a committed 
 
 In addition to his political and legal careers, he was an enthusiastic collector of foreign objects and art obtained during his travels. The Werl museum inherited parts of his collection, including a small collection of the objects from Gandhara. His collection also forms the entire collection of the room dedicated to Tibet in the museum, and a total of around 1,000 objects derive from his collection. The inheritance to the museum has been set in a testament he had established years prior to his passing. Sadly, he had already been in poor health, preventing him from providing intricate details regarding the origins and provenance of this extensive mass of objects.
 
-![Ernst Majonica](/Art-of-Gandhara/assets/majonica.jpg)
+![](/Art-of-Gandhara/assets/majonica.jpg)
 Ernst Majonica
 
 ## How the objects from Gandhara came to Germany
@@ -65,9 +65,7 @@ The presentation of these objects is equally intriguing. Since there is no dedic
 
 ![Entry to the collection](/Art-of-Gandhara/assets/ostasien.jpg)
 
-Unfortunately, there is inadequate separation between the labels for these objects and those from East Asia, aside from a small note indicating that they are from Gandhara, Pakistan. 
-
-![Collection](/Art-of-Gandhara/assets/separation.jpg)
+Unfortunately, there is inadequate separation between the labels for these objects and those from East Asia, aside from a small note indicating that they are from Gandhara, Pakistan.
 
 The collection includes 13 objects showcased in glass cabinets, though there is room for improvement in terms of lighting. Nonetheless, each object can be observed. Smaller objects share a raised white shelf against a brownish wall, while larger objects have their dedicated shelves. One object is inexplicably hanging on the wall without a label providing essential information, while the twelve others are provided with those information.
 
