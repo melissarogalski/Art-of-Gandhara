@@ -16,6 +16,7 @@ This region's historical importance is underscored by its early mentions in reli
 It's through these geographical distinctions that we categorize art from Greater Gandhara, which includes pieces from ancient Gandhara, the Swat Valley, and Afghanistan.
 
 ![Map of Gandhara](/Art-of-Gandhara/assets/Map.jpg)
+Map of Gandhara
 
 ## History of buddhism in Gandhara
 
@@ -77,6 +78,7 @@ As we’ve already learned now, Buddhism in Gandhara basically died out from the
 To begin with the Afghan part of Gandhara, I’m sure everyone has heard about the bombing in Bamiyan. In 2001, the Taliban destroyed some of the oldest Buddhist statues portraying Buddha Dipamjara being 53 meters high which were chiselled in massive stone from the 6th century, and therefore destroyed the most important objects of their Buddhist past. The reason was them being unislamic idols that are a proof of the fact that other religions existed in Afghanistan before Islam, though they haven’t been used as religious objects anymore. 
 
 ![Buddha stature before and after destruction in Bamyian](/Art-of-Gandhara/assets/bamyian.jpg)
+Buddha statues before and after destruction in Bamiyan
 
 They even destroyed Buddhist art from the national museum in Kabul, basically to erase the Buddhist history. While other countries as Japan and France tried to save and reconstruct parts of the destruction in Bamiyan, even before Afghanistan itself has been trying to protect the Buddhist remains. In the 1990s objects were brought to Switzerland to save them from the Taliban and the civil war, recognising that they’re part of the countries past to be saved. 
 
@@ -104,12 +106,14 @@ The Peshawar museum located in the city of Peshawar, which is Gandhara itself, i
 Priory talking about how Pakistan handles their Buddhist heritage, back in 1907 the museums curator was the superintendent of the Archaeological Survey of India. After the independence of Pakistan and changes in 1992, the government established its own Directorate of Archeology and Museums for the preservation and protection of the archaeological heritage, therefore the Buddhist heritage of Gandhara, and since then for its own good the museum is part of the Provincial Directorate.  
 
 ![Peshawar Museum](/Art-of-Gandhara/assets/peshawar.jpg)
+Peshawar Museum
 
 Another museum in Pakistan, which is just as important is the Lahore Museum in Punjab, Pakistan. While the museums says it aims to become a world class museum and that their goal is to preserve Pakistans cultural heritage, to conserve antiquities, to educate the public and to promote research about their history, it’s clear that they also hold a significant number of Gandharan objects, even one of the worlds most extensives. 
 An 360 degree picture shows the large collection on their website, and additionally gives more information and pictures of important objects. The sculpture of the Fasting Buddha appears as one of the most famous Gandharan objects, and is also part of their collection and on the website, and from the online exhibition and the given information, it becomes clear that their main aim is to educate about their rich Buddhist heritage.
 
 ![Lahore Museum](/Art-of-Gandhara/assets/lahore.jpg)
 ![Lahore Museum exhibition](/Art-of-Gandhara/assets/lahore2.jpg)
+Lahore Museum building and exhibition
 
 Other museums in Pakistan having Gandharan artefacts are the National Museum of Pakistan, the Taxila Museum, the Islamabad Museum, the Deir Museum, the Swat Museum and the Honde Museum
 
@@ -120,14 +124,17 @@ An collection of Gandharan objects can be found not far from Pakistan - namely i
 Today it has three main sections - Art, Archeology and Anthropology. The website shows a picture of the area in the museum dedicated to Gandhara, and it’s about 25 objects showing significant events of the Buddhas life. The museum states, that they’re representing those to show the influence of Greek Culture on the indigenous Buddhist art from Gandhara. More detailed information about the objects isn’t given.
 
 ![Indian Museum Kolkata](/Art-of-Gandhara/assets/kolkatta.jpg)
+Indian Museum Kolkata
 
 The Museum für Asiatische Kunst in Berlin, Germany hosts 20.000 objects and art objects from, South- Southeast and Central Asia, and it’s one of the most important exhibition of its kind. Originally, it were two separated museums - the museum of East Asian Art founded in 1906, - and the museum for Indian Arts, which were combined in 2006 and are now part of the Humboldt Forum. The objects state from the third century B.C up to today and are of various kind, though the focus lies on South and Southeast Asian sculptures. As especially important listed is the Gandharan collection with objects from 1st-5th A.C from Afghanistan and Pakistan. The objects have been digitalised and can be found online.
 
 ![Museum für Asiatische Kunst Berlin](/Art-of-Gandhara/assets/berlin.jpg)
+Museum für Asiatische Kunst Berlin
 
 An extraordinary exhibition has just been opened in 2023 in Beijing, China and is definitely worth looking at. It’s portrayed in the Palace Museum in Beijing in corporation with the Department of Archeology and Museums at the National Heritage and Culture Division of Pakistan, and it’s the largest ever held exhibition in China about Gandhara, with the goal to educate and connect about the long history of Chinese-Pakistani exchanges along the Silk Road, as the name indicates: the Gandhara heritage along the Silk Road: A Pakistan-China Joint Exhibition. It’s also suppose to not only promote the shared buddhist heritage, as the silk road going through Gandhara played a major part in introducing Buddhism to China, but to strengthen future relations, as it has been said at the opening prior this year. The museum itself held 30 objects, and the exhibition was added by 173 objects unearthed by archeological excavations from the 2nd century B.C to the 10th century A.D, coming from seven different museums in Pakistan, those who were already listed above.
 
 ![Palace Museum Beijing](/Art-of-Gandhara/assets/beijing.jpg)
+Palace Museum Beijing
 
 As it can be seen already, there are plenty museums who hold Gandharan objects - famous museums such as the Metropolitan museum, the British museum, the Ashmolean museum in Oxford, - but also small and not world widely known ones as the Museum DKM in Duisburg, Germany, the Astamangala Gallery in the Netherlands, or being the best example: Das Forum der Völker in Werl. So even though Gandhara isn’t something everyone knows of and something everyone looks out for in museums - it’s there and it’s more represented than it seems if you keep an eye out for it.
 
