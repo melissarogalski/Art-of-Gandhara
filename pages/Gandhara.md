@@ -15,6 +15,8 @@ This region's historical importance is underscored by its early mentions in reli
 
 It's through these geographical distinctions that we categorize art from Greater Gandhara, which includes pieces from ancient Gandhara, the Swat Valley, and Afghanistan.
 
+![Map of Gandhara](/Art-of-Gandhara/assets/Map.jpg)
+
 ## History of buddhism in Gandhara
 
 To delve into Gandharan Art, it's essential to start with a brief overview of Buddhism's history in the greater Gandhara region. 
