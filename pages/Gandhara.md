@@ -76,7 +76,7 @@ As we’ve already learned now, Buddhism in Gandhara basically died out from the
 
 To begin with the Afghan part of Gandhara, I’m sure everyone has heard about the bombing in Bamiyan. In 2001, the Taliban destroyed some of the oldest Buddhist statues portraying Buddha Dipamjara being 53 meters high which were chiselled in massive stone from the 6th century, and therefore destroyed the most important objects of their Buddhist past. The reason was them being unislamic idols that are a proof of the fact that other religions existed in Afghanistan before Islam, though they haven’t been used as religious objects anymore. 
 
-![Buddha stature before and after destruction in Bamyian](/Art-of-Gandhara/assets/bamyan.jpg)
+![Buddha stature before and after destruction in Bamyian](/Art-of-Gandhara/assets/bamiyan.jpg)
 
 They even destroyed Buddhist art from the national museum in Kabul, basically to erase the Buddhist history. While other countries as Japan and France tried to save and reconstruct parts of the destruction in Bamiyan, even before Afghanistan itself has been trying to protect the Buddhist remains. In the 1990s objects were brought to Switzerland to save them from the Taliban and the civil war, recognising that they’re part of the countries past to be saved. 
 
