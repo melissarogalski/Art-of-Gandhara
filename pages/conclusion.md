@@ -16,6 +16,6 @@ The Forum der Völker has been discovered as an extremely interesting museum con
 As the process of the project has been discussed before, I can lastly say that despite having difficulties in the beginning and starting late, I found it very enriching to work on this project, and while doing I definitely learned a lot supporting my projects in the future.
 As a result, this websites functions to keep the work up longer than the average term paper and therefore is a result which can be grasped by making all the work visible, which in the end definitely makes me proud.
 
-![](/Art-of-Gandhara/assets/IMG_12.jpg)
+![](/Art-of-Gandhara/assets/buddha.jpg)
 
 ## Bibliography
