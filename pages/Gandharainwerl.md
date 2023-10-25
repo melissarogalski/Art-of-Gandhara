@@ -59,7 +59,7 @@ Firstly, a conspicuous absence of including them is evident on the museum's flye
 
 This lack of representation is also reflected on the museum's website, which was last updated in 2022.
 
-[Website of the museum](https://www.forum-der-voelker.de)
+[Link to the Website of the museum](https://www.forum-der-voelker.de)
 
 The presentation of these objects is equally intriguing. Since there is no dedicated area for Buddhism or South Asia, objects from Gandhara are somewhat erroneously placed at the beginning of the section featuring objects from East Asia. 
 
@@ -67,7 +67,7 @@ The presentation of these objects is equally intriguing. Since there is no dedic
 
 Unfortunately, there is inadequate separation between the labels for these objects and those from East Asia, aside from a small note indicating that they are from Gandhara, Pakistan. 
 
-![](/Art-of-Gandhara/assets/separation.jpg)
+![Collection](/Art-of-Gandhara/assets/separation.jpg)
 
 The collection includes 13 objects showcased in glass cabinets, though there is room for improvement in terms of lighting. Nonetheless, each object can be observed. Smaller objects share a raised white shelf against a brownish wall, while larger objects have their dedicated shelves. One object is inexplicably hanging on the wall without a label providing essential information, while the twelve others are provided with those information.
 
