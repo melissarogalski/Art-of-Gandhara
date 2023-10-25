@@ -17,6 +17,7 @@ Before entering politics, he grew up during the Third Reich and, as a committed 
 In addition to his political and legal careers, he was an enthusiastic collector of foreign objects and art obtained during his travels. The Werl museum inherited parts of his collection, including a small collection of the objects from Gandhara. His collection also forms the entire collection of the room dedicated to Tibet in the museum, and a total of around 1,000 objects derive from his collection. The inheritance to the museum has been set in a testament he had established years prior to his passing. Sadly, he had already been in poor health, preventing him from providing intricate details regarding the origins and provenance of this extensive mass of objects.
 
 ![](/Art-of-Gandhara/assets/majonica.jpg)
+
 Ernst Majonica
 
 ## How the objects from Gandhara came to Germany
@@ -63,19 +64,19 @@ This lack of representation is also reflected on the museum's website, which was
 
 The presentation of these objects is equally intriguing. Since there is no dedicated area for Buddhism or South Asia, objects from Gandhara are somewhat erroneously placed at the beginning of the section featuring objects from East Asia. 
 
-![Entry to the collection](/Art-of-Gandhara/assets/ostasien.jpg)
+![](/Art-of-Gandhara/assets/ostasien.jpg)
+Entry to the collection
 
 Unfortunately, there is inadequate separation between the labels for these objects and those from East Asia, aside from a small note indicating that they are from Gandhara, Pakistan.
 
 The collection includes 13 objects showcased in glass cabinets, though there is room for improvement in terms of lighting. Nonetheless, each object can be observed. Smaller objects share a raised white shelf against a brownish wall, while larger objects have their dedicated shelves. One object is inexplicably hanging on the wall without a label providing essential information, while the twelve others are provided with those information.
 
-
-
 There are two notable criticisms regarding the labelling. 
 
 Firstly, the numbering of objects goes from one to fourteen, but object number 11 does not originate from Gandhara; instead, it is attributed to Nepal or China. This arrangement can be misleading for viewers who may not notice the discrepancy. It would make more sense for this object to be placed elsewhere in the collection alongside Chinese objects or be designated as number 14 to maintain a clearer distinction between Gandhara and the other regions. 
 
-![Different Buddha head](/Art-of-Gandhara/assets/china.jpg)
+![](/Art-of-Gandhara/assets/china.jpg)
+Buddha head from China or Nepal
 
 Secondly, after object 14, the numbering continues, showcasing Buddhist objects from East Asia, without a visible differentiation between these vastly different regions.
 
@@ -103,4 +104,3 @@ The last interesting objects is number 11 showing a scene from the Buddhas life,
 Concluded, even if these objects don’t seem extraordinarily special compared to other collections, the small objects are still as important as they still emphasise what has been important for Buddhism. The scene from the Buddha s life is an example of how those depictions from the Buddhas life were an early result of veneration and arts making in Gandhara, and the Buddha heads can show the different veneration and looks of Buddha(s), just as the Bodhisattvas are a proof of Mahayana existing in Gandhara. 
 
 If one expert would look closely at those objects, it perhaps would be possible to sort them to a production facility in Gandhara to find out even more, as for example where the smaller objects have been attached to.
-
