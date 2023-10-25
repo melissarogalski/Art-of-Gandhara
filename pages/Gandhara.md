@@ -7,7 +7,7 @@ permalink: /gandhara.html
 ---
 
 # The ancient region of Gandhara
-When we begin a research project about a collection of items from Gandhara in a German mission museum, there are some important questions to consider. First, what exactly is Gandhara? Where is it located, and why haven't many of us heard about it before? Additionally, how is it related to Buddhism? These questions are intriguing, and answering them can be tricky because Gandhara has a long history filled with culture, history, and religion. Still, these questions will be answered on the following pages!
+When we begin a research project about a collection of items from Gandhara in a German mission museum, there are some important questions to consider. First, what exactly is Gandhara? Where is it located, and why haven't many of us heard about it before? Additionally, how is it related to Buddhism? These questions are intriguing, and answering them can be tricky because Gandhara has a long history filled with culture, history, and religion. Still, these questions will be answered on the following pages.
 
 The ancient region of Gandhara, situated in present-day northwest Pakistan, held a significant place in history. Its geographical location along the Silk Road, connecting to China, South Asia, and the Mediterranean, contributed to its prosperity, complementing the agricultural plains it possessed.
 
