@@ -6,7 +6,8 @@ permalink: /Returningobjects.html
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-# Returning the objects to Gandhara? The future of museum collections from colonial times
+# Returning the objects to Gandhara? 
+## The future of museum collections from colonial times
 Already having written about the history of missionary museums, it is also important to investigate theim today critically, especially how they should handle their collections and responsibilities of owing those objects in the future. 
 
 Therefore the question emerges, if those museums, and also the museum in Werl with missionary objects and the Gandharan objects, should return those objects from the colonial period back to their country of origin, and generally how the future of such museums and collections ideally should look like. 
