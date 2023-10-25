@@ -90,4 +90,4 @@ After having walked around all these areas, you’re again standing in the entra
 ![](/Art-of-Gandhara/assets/infoboard.jpg)
 Information board in the entrance
 
-[link to 360 degree walk through the museum](http://www.rundgang.forum-der-voelker.de)
+[Link to 360 degree walk through the museum](http://www.rundgang.forum-der-voelker.de)
