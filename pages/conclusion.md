@@ -23,7 +23,6 @@ As a result, this websites functions to keep the work up longer than the average
 Andrew Zimmerman: Kolonialismus und ethnographische Sammlungen in Deutschland, in: Europäische Erinnerungsorte Band 3: Europa und die Welt, hrsg von:  Pim den Boer, Heinz Duchhardt, Georg Kreis und Wolfgang Schmale, München 2012. 
 
 Arshad Awan: Remembering Pakistan's Buddhist Past. T-Magazine, 2022. 
-
 https://tribune.com.pk/story/2361090/remembering-pakistans-buddhist-past. Accessed 30 September 2023. 
 
 Bernd Musch-Borowska: Zerstörung von Kulturstätten. “Barbarischer Akt religiöser Intoleranz.” Deutschlandfunk Kultur, 2020. https://www.deutschlandfunkkultur.de/zerstoerung-von-kulturstaetten-barbarischer-akt-religioeser-100.html. Accessed  27 September 2023. 
