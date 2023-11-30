@@ -12,12 +12,12 @@ permalink: /welcome.html
 
 ## Welcome!
 
-How does one come to dedicate an entire website, which first has to be built as well, enhanced by an endlessly seeming blog, to the digitalisation of 13 buddhist objects coming from the ancient region of Gandhara in Pakistan, standing in an museum in the small city of Werl in Germany which is currently closed anyways?
+How does one go about dedicating an entire website to the digitalization of thirteen Buddhist objects originating from the ancient region of Gandhara in Pakistan? Especially objects which currently reside in a museum in the small city of Werl, Germany, which is presently closed. 
 
-The answer is, that a bachelor student, I, Melissa Rogalski is doing their first research project, combining researching about building their own website to portray photographed objects, and researching about Gandhara, the region which is rich of culture because of its buddhist heritage as well combined with dealing with missionary and colonial museums.
+The answer lies in the efforts of a bachelor student, Melissa Rogalski —myself— embarking on their initial research project. This project involves the dual focus of creating a website to showcase photographed objects and delving into the rich cultural heritage of Gandhara, with its significant Buddhist influence. Simultaneously, I address the complexities associated with missionary and colonial museums.
 
-As a result, this website contains the pictures of these now digitalised objects which I took in the museum in Werl, and further information about those as I tried to find out where these objects came from. To link to that, I also explored the history of the museum in Werl, as also about german mission museums generally, for exmple dealing with provenance research. To also connect to the objects themselves, I included research about the region of Gandhara, its history and its buddhist past. Other chapters include smaller topics which seemes either necessary or interesting to include.
+As a result, this website features digitalized images of the objects taken during my visit to the closed mission museum in Werl. Additionally, it provides in-depth information about these artifacts, including my attempts to trace their origins. I also delve into the history of the Werl museum and German mission museums at large, with an emphasis on provenance research. To further contextualize the objects, I explore the history of Gandhara, especially its important Buddhist past. The website additionally includes smaller topics deemed either necessary or interesting to complete my research.
 
-To look back on, I also wrote about the whole process of this project, as it took time during the entire summer semester of 2023, and now in October 2023 the result of this entire research has been published through this website.
-## Enjoy!
+To look back on this project, I document the process undertaken throughout the summer semester of 2023. Now, in October 2023, the result of this research project has been presented through the publication of this website.
 
+#Enjoy exploring!
