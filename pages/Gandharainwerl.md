@@ -38,11 +38,13 @@ A myriad of unanswered questions surrounds these artifacts:
 
 2. **Intentions and Awareness:**
    - Did the trader recognize the historical and cultural significance of the objects, or were they sold without a full understanding of their age and value?
+   
    -> Regardless of the buyer's intention, it is clear that these objects have commercial value and would enhance the collection of Ernst Majonica or future owners.
 
 3. **Majonica's Motivations:**
    - Why did Ernst Majonica desire to acquire these objects?
    - Did he recognize and appreciate their importance in preserving Buddhist heritage, or did he view them as simply enlarging his collection?
+ 
    -> Given Majonica's health condition when he declared his estate, it remains uncertain if he was aware of the circumstances of the sale, the legal aspects, and the challenges involved in bringing these objects to Germany.
 
 Exploring these questions could unravel the intricate history behind the acquisition of these Gandharan objects, shedding light on the motivations of the traders, the awareness of the buyers, and the broader context of their movement from Pakistan to Afghanistan and eventually to Germany.
@@ -69,7 +71,7 @@ The place of the founding could also hint places to get to know more about Buddh
 ## Inclusion within the Museum - do the objects fit in? How are they presented?
 When looking at the collection of Gandhara in the museums, some questions need to be observed and answered, as how the objects are included in the museum, how they are presented and also what function do they even fulfil in the entity of the collection. From my first observation on, several noteworthy aspects emerged regarding the presentation of the objects in the museum. 
 
-Firstly, a conspicuous absence of including them is evident on the museum's flyer. While it provides information about various regions, including Egypt, Islamic culture, China, Japan, Tibet, Southeast Asia, Africa, and Brasilia, there is a lack of specific details about Gandhara. This omission may stem from the relatively small number of objects from this region in the collection. Additionally, the flyer does not offer information about Buddhism and South Asia. 
+Firstly, a conspicuous absence of including them is evident on the museum's flyer. While it provides information about various regions, including Egypt, Islamic culture, China, Japan, Tibet, Southeast Asia, Africa, and Brasilia, there is a lack of specific details about Gandhara. This omission may stem from the relatively small number of objects from this region in the collection, but actually is because. the Gandharan collection was only included after the last update of the collection. Therefore, also the flyer does not offer information about Buddhism and South Asia. 
 
 This lack of representation is also reflected on the museum's website, which was last updated in 2022.
 
@@ -84,7 +86,7 @@ Unfortunately, there is inadequate separation between the labels for these objec
 
 The collection includes 13 objects showcased in glass cabinets, though there is room for improvement in terms of lighting. Nonetheless, each object can be observed. Smaller objects share a raised white shelf against a brownish wall, while larger objects have their dedicated shelves. One object is inexplicably hanging on the wall without a label providing essential information, while the twelve others are provided with those information.
 
-There are two notable criticisms regarding the labelling. 
+There are two notable criticisms regarding the labelling, as I trief to think of ways to improve those critics. 
 
 Firstly, the numbering of objects goes from one to fourteen, but object number 11 does not originate from Gandhara; instead, it is attributed to Nepal or China. This arrangement can be misleading for viewers who may not notice the discrepancy. It would make more sense for this object to be placed elsewhere in the collection alongside Chinese objects or be designated as number 14 to maintain a clearer distinction between Gandhara and the other regions. 
 
@@ -92,18 +94,23 @@ Firstly, the numbering of objects goes from one to fourteen, but object number 1
 Buddha head from China or Nepal
 
 Secondly, after object 14, the numbering continues, showcasing Buddhist objects from East Asia, without a visible differentiation between these vastly different regions.
+To enrich the collection, I could imagine a small seperation of these objects, simply by providing information abo7t the differences of Buddhism in Gandhara and Eastasia, perhabs even explaining the connection of both areas.
 
-In this section, a printed piece of paper is available for a fee of 0.10 euros, providing more detailed information about Buddhism, which is notably absent from the labels on the objects. This paper offers general information, beginning with Theravada Buddhism and explaining the Four Noble Truths and the Eightfold Path. It then delves into Mahayana Buddhism, crucial because of its prevalence in East Asia. The third form of Buddhism, Tantra, is also briefly mentioned, characterised as a mystical and occult variant of Buddhism with secret religious texts and mantras. While this paper provides a general and not bad overview of Buddhism, which could benefit from updates, it notably neglects to mention Gandhara, missing an opportunity to use objects from the collection as examples to elucidate the different developments of Buddhism.
+In this section, a printed piece of paper is available for a fee of 0.10 euros, providing more detailed information about Buddhism, which is notably absent from the labels on the objects. This paper offers a good amount of general information, beginning with Theravada Buddhism and explaining the Four Noble Truths and the Eightfold Path. It then delves into Mahayana Buddhism, crucial because of its prevalence in East Asia. The third form of Buddhism, Tantra, is also briefly mentioned, characterised as a mystical and occult variant of Buddhism with secret religious texts and mantras. While this paper provides a general and not bad overview of Buddhism, which could benefit from updates, it notably neglects to mention Gandhara, missing an opportunity to use objects from the collection as examples to elucidate the different developments of Buddhism. Therefore, a small update to make the paper more suitable to the connection could give a huge improvement to the collection.
 
 ![Information paper](/Art-of-Gandhara/assets/info.jpg)
 
 Lastly, the official museum catalog published in 1989 includes objects from various regions, but none from Gandhara, since at that time they were not included in the collection yet.
 
-In conclusion, it appears that the museum's various communication mediums, including the flyer, website, information boards, and printed materials, as well as the presentation of the collection itself, fail to adequately represent Gandhara. While at least they have been included in the museums collection, the curators appear to have overlooked the challenge of categorising these objects or did not prioritise maintaining a clear distinction between Gandhara and East Asia.
+In conclusion, it appears that the museum's various communication mediums, including the flyer, website, information boards, and printed materials, as well as the presentation of the collection itself, fail to adequately represent Gandhara, but that could be improved quiet simply to portray the Gandharan objects worthy of their worth.
 
-While the objects themselves are presented satisfactorily and some information is provided, such as the information paper on Buddhism, it seems like the museum just tried to include these objects at all cost without taking proper care about the background information, and maybe tried to compensate that by at least educating about Buddhism, and presenting the objects next to other buddhist artefacts. 
+While at least the objects have been included in the museums collection, the curators appear to have overlooked the challenge of categorising these objects or did not prioritise maintaining a clear distinction between Gandhara and East Asia, which could be something to face and change in the future.
 
-Nevertheless, there is still a lack of comprehensive education about Gandhara and its Buddhist history, especially for viewers with little or no prior knowledge of Gandhara since the collection is detached from the given information, and when it comes to answer the question, what function do these objects fulfil for the collection of the museum, it’s easy to say - none, they seem to be included simply because they’re there, and because they improve the collection by being older than the average objects collected by missionaries (which mostly only date back 150-100 years) and because they’re archeological objects, as the majority of objects in the museum isn’t, and additionally they fit the narrative of portraying anything buddhist.
+While the objects themselves are presented satisfactorily and some information is provided, such as the information paper on Buddhism, it seems like the museum just tried to include these objects at all cost without taking proper care about the background information, because they "sell well", and maybe tried to compensate that by at least educating about Buddhism, and presenting the objects next to other buddhist artefacts, which of course is not a bad way to portray buddhist objects, it just needs little adjustments. 
+
+Nevertheless, there is still a lack of comprehensive education about Gandhara and its Buddhist history, especially for viewers with little or no prior knowledge of Gandhara since the collection is detached from the given information, and when it comes to answer the question, what function do these objects fulfil for the collection of the museum, it’s easy to say - none, they seem to be included simply because they’re there and sell sell, and because they improve the collection by being older than the average objects collected by missionaries (which mostly only date back 150-100 years) and because they’re archeological objects, as the majority of objects in the museum is not, and additionally they fit the narrative of portraying anything Buddhist.
+
+Talking about the pros and cons of how the objects are presented, it is excited how the curators would decide to portray those challenging but rich objects after another upgrade of the collection (somewhen in the future)!
 
 ## What do these objects tell us about Buddhism
 Since these objects are basically 13 random objects which came to the museum by a accidental trade, and not actually to represent Gandhara, it might be interesting if they can tell us anything about Buddhism from their period and time. But when looking closer at the objects, that appears actually harder than expected, since many of the objects aren’t actually extraordinary, but small objects probably being broken off something bigger, as object 2, which is a horse head and object 4,5 & 6 which are really small relief heads, 
