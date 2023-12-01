@@ -7,8 +7,7 @@ permalink: /Gandharainwerl.html
 ---
 
 # Buddhist Objects from Gandhara in Werl
-In the Werl museum's East-Asia section, there are 13 objects from Gandhara. Among them, seven are Buddha and Bodhisattva heads, four are relief figures (one showing only the upper body of a bodhisattva), one depicts a scene from Buddha's life, and there's a horse's head. These objects all come from Gandhara, Pakistan, date back to 200-500 A.D, and come from the estate of the German Politician Ernst Majonica.  
-
+In the East Asia section of the Werl Museum, there are 13 objects from Gandhara. Among them, seven are heads of Buddha and Bodhisattva, four are relief figures (one featuring only the upper body of a bodhisattva), one depicts a scene from Buddha's life, and there is also a horse's head. These artifacts, originating from Gandhara, Pakistan, date back to 200-500 A.D., and they were acquired from the estate of the German politician Ernst Majonica.
 ## Ernst Majonica
 Ernst Majonica was a politician born on October 29, 1920, in Soest, Germany, and he passed away on July 21, 1997, in the same town. During the 1950s and 60s, he was an important member (and also the youngest) of the German party CDU, which he represented in the German parliament. He was one of the few parliament members at that time who focused on foreign relations with East Asia. This led to multiple trips to the region, and he became the spokesperson for foreign affairs in 1959.
 
@@ -23,16 +22,30 @@ Ernst Majonica
 ## How the objects from Gandhara came to Germany
 One of my main aims originally for this project was, to also find out a lot more about the provenance of these objects coming from Gandhara. Which sounded like a lot of fun in the beginning, turned out to be more difficult than expected due to the closing of the museum which currently makes me unable to do research in the museum. 
 
-Still, from an lecture being held at CERES earlier I found out at least some things: As mentioned before, these objects come from the estate of the German politician Ernst Majonica, which went to the museum after his passing in 1997. It is said that he traded these objects (perhaps in the 70s or 80s) on a travel in Afghanistan against Whiskey - so historical and religious artefacts have been traded for alcohol. Unfortunately, there wasn’t more to easily find out.
+Still, from an lecture being held by Dr. Mai Lin Tjoa-Bonatz on the 06th of July 2023 at the CERES-Palais, Bochum, earlier I found out at least some things: As mentioned before, these objects come from the estate of the German politician Ernst Majonica, which went to the museum after his passing in 1997. It is said that he traded these objects (perhaps in the 70s or 80s) on a travel in Afghanistan against Whiskey - so historical and religious artefacts have been traded for alcohol. Unfortunately, there was not more to easily find out.
 
 ## What the archive can possibly tell us
-Now since I didn’t have access to the archive, it’s interesting to have a look at least at what could have been found out. Generally, to do more research about these objects having an exact date and location of the trading would be interesting. Not even from Majonicas political diary I could figure out the exact years of his travels to Afghanistan. 
 
-Besides these simple questions, there’s an unbelievable amount of unanswered questions: 
+The lack of access to the archive indeed leaves many intriguing questions about the Gandharan objects from the Werl Museum. To delve deeper into the research, obtaining specific details about the trading, including exact dates and locations, would be highly beneficial. Unfortunately, even Ernst Majonica's political diary fails to provide insight into the precise years of his travels to Afghanistan.
 
-First, it would be interesting why these objects which probably come from Pakistan have been traded in Afghanistan -  how did they get there, and under which circumstances? We’re they found during an excavation, or broken off of something, maybe even off something holding historical worth on purpose? And also, have they been traded regardless of their worth within the Buddhist heritage of Pakistan, or even because of it - to deny the Buddhist part of this region? Or maybe the trader simply didn’t care, or wasn’t aware of these objects - especially at how old they are. 
+A myriad of unanswered questions surrounds these artifacts:
 
-Secondly, why did Majonica wanted to have these objects - Did he know about their worth preserving the Buddhist heritage and found it to be important, or did he just saw them as not very special objects which still would enlarge his collection? At the time where he declared his estate, he was already to sick to be able to answer such questions. Maybe he knew why these objects even were for sale, and if it was a legal transaction. Talking about that, it is easy to assume that Majonica might have faced any troubles bringing these objects to Germany in a suitcase - but an answer to that isn’t available.
+1. **Origins and Circumstances:**
+   - Why were objects from Pakistan traded in Afghanistan?
+   - How did these objects end up there, and under what circumstances?
+   - Were they discovered during an excavation, intentionally removed from something of historical value, or traded without regard to their significance in the Buddhist heritage of Pakistan?
+   - Was there an intentional effort to deny the Buddhist history of the region?
+
+2. **Intentions and Awareness:**
+   - Did the trader recognize the historical and cultural significance of the objects, or were they sold without a full understanding of their age and value?
+   -> Regardless of the buyer's intention, it is clear that these objects have commercial value and would enhance the collection of Ernst Majonica or future owners.
+
+3. **Majonica's Motivations:**
+   - Why did Ernst Majonica desire to acquire these objects?
+   - Did he recognize and appreciate their importance in preserving Buddhist heritage, or did he view them as simply enlarging his collection?
+   -> Given Majonica's health condition when he declared his estate, it remains uncertain if he was aware of the circumstances of the sale, the legal aspects, and the challenges involved in bringing these objects to Germany.
+
+Exploring these questions could unravel the intricate history behind the acquisition of these Gandharan objects, shedding light on the motivations of the traders, the awareness of the buyers, and the broader context of their movement from Pakistan to Afghanistan and eventually to Germany.
 
 ## Why do we want to answer those questions ? - Provenance Research
 But why do we even want to have an answer to these questions, why can’t we just enjoy the current presence of these objects in the museum on their own? This can be answered when defining that answering these questions is Provenance research. But what is that?
