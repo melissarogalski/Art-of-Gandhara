@@ -66,28 +66,30 @@ The official catalog from 1989 states that while the objects were initially used
 In 1987, the museum underwent a significant transformation, culminating in its renaming to "Forum der Völker." This name change signifies an invitation to engage in dialogues with foreign cultures, people, and religions, with the aim of discovering common interests and a shared willingness to learn from one another. This pursuit is driven by the principles of justice, peace, and reverence for the divine creation, recognising that different religions may offer distinct paths leading to a common goal.
 
 ## Structure of the museum
-To understand the whole “mechanism” of the museum, let’s have a short look at the structure of the exhibition and the museum generally. 
 
-When coming in, you stand in the (currently closed) museum store, which is also the entrance. Next is a big hall already containing a few artefacts to look at. Then you can entry the exhibition, which you can follow around in a circle. 
+To grasp the entire "mechanism" of the museum, let's briefly explore the structure of the exhibition and the museum as a whole.
 
-The left entry is for the museum, and as you step in stand in the room containing the Egypt collection. It has black walls, enhancing the exhibited objects, and the centre of the room is an original mummy. 
+Upon entering, visitors find themselves in the currently closed museum store, serving as the entrance. Moving forward, there's a spacious hall that already showcases a few artifacts for observation. The main exhibition follows, forming a circular path.
+
+Entering from the left brings visitors to the room housing the Egypt collection. This space features black walls, intensifying the impact of the exhibited objects. At the center of the room, capturing attention, is an original mummy.
 
 ![](/Art-of-Gandhara/assets/mumie.jpg)
 Mummy in Egypt exhibition
 
-Before entering the East Asia section, there’s a comparably small shelve of cuneiform tablets, which are actually more impressive than they seem if you know what those are. The East Asian section contains many objects which stand around unprotected, and look like what you would expect from East Asian objects - shrines and religious depictions for example.
+Before stepping into the East Asia section, visitors encounter a relatively modest shelf displaying cuneiform tablets. But despite their seemingly unassuming appearance, these tablets carry significant historical and cultural weight, especially for those familiar with the historical backround of Mesopotamia. 
+
+Moving into the East Asian section, numerous objects are displayed without extensive protection, giving an authentic and open feel to the exhibition space. The objects reflect the expected characteristics of East Asian artifacts, featuring shrines and religious depictions, among other culturally rich items. This section offers a glimpse into the diverse and intricate world of East Asian art and spirituality.
 
 ![](/Art-of-Gandhara/assets/shrine.jpg)
 Picture of East Asian exhibition
 
-When you take a turn to the left, you’re standing in front of the Gandhara objects, which sufficient as the start of the collection, followed by Chinese and Japanese objects. Here, the walls are white, and just as in the other part of the collection, the objects are behind glass shelves.
-It’s followed by two colourful rooms containing Chinese objects, which also consist of big objects such as shrines. 
+Taking a left turn leads you to the Gandhara objects, serving as a significant starting point for the collection, followed by Chinese and Japanese artifacts. In this section, the walls are painted white, and the objects are displayed behind glass shelves, maintaining a clean and organized presentation. 
 
-The following section of Brasilia is comparably small of objects, but is enhanced by a collection of a lot of pictures from the Christian mission there and by an actual wooden hut which was put in the museum surrounded by pictures making it seem real. 
+Continuing the journey, two vibrant rooms showcase Chinese objects, including sizable items like shrines. The Brasilia section, though relatively small in terms of objects, is enriched by a compelling collection of images from the Christian mission there. An actual wooden hut placed within the museum, surrounded by pictures, creates a vivid representation of reality.
 
-Next there are sections dedicated to African objects, some are declared as East African in an special area. Here, the exhibition seems less colourful, instead the focus is on the objects, which are divided into categories such as “power, gold and rituals”. There are also two dedicated rooms to Papua Neugin and one to only Nepal, and again I am questioning why some rooms are portrayed the way they are - colourful and playful with a lot of pictures, while others have plain white walls without any information boards.
+Moving on, dedicated sections for African objects follow. The exhibition here emphasizes the objects themselves, with a less colorful backdrop, focusing on categories such as "power, gold, and rituals." Special areas are designated for East African artifacts. Two rooms are exclusively dedicated to Papua New Guinea, and there is another one solely for Nepal. The varying presentation styles, with some rooms being colorful and playful with numerous pictures, while others have plain white walls without information boards, might prompt questions about the curatorial choices.
 
-After having walked around all these areas, you’re again standing in the entrance hall. 
+Having explored all these diverse areas, you find yourself back in the entrance hall, completing the comprehensive journey through the museum's rich and varied collection.
 
 ![](/Art-of-Gandhara/assets/infoboard.jpg)
 Information board in the entrance
