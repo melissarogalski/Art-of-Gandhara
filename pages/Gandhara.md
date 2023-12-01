@@ -44,13 +44,11 @@ In the region of Afghanistan, Buddhism thrived in tandem with local communities 
 Nevertheless, the 8th to 9th century A.D marked the end of the Buddhist tradition here as well, finalized in the 14. century by the muslim invasion of the Indian subcontinent since the 12th century.
 
 ## Buddhism in Gandhara today 
-Buddhism in Gandhara since then practically died out. 
+Buddhism in Gandhara has, over time, essentially diminished. In Pakistan, where 94% of the population is Muslim, religious minorities, including Hindus, face oppression. It's unsurprising that in 2017, only 1884 Buddhists were reported in Pakistan, with the country hosting just one Buddhist temple in Islamabad, primarily used by visiting Buddhists from abroad.
 
-In Pakistan, the countries population is muslim by 94%, while other religions such as Hindus face oppression. Therefore it is no wonder, that in 2017 only 1884 buddhist were counted in Pakistan, with Pakistan having only one Buddhist temple in Islamabad, mainly used by foreign visiting Buddhists. 
+Afghanistan, despite being 99.9% Muslim, recorded 6282 Buddhists in 2013. However, there are no Buddhist temples for them, given the widespread oppression faced by Hindus and especially Christians. This oppression has intensified, particularly since the Taliban took over governmental control.
 
-Afghanistan counted 6282 buddhist in 2013, while being muslim by 99,9%. There is no buddhist temple for those, since even Hindus and especially Christians are heavily oppressed, even more than ever today since the Taliban regime took over governmental rule.
-
-Therefore, it is clear how besides archeological remains, Buddhism as a practised religion is only a part of the past of those countries, and besides people who try to keep up the historical heritage it isn’t present today by practise, but only by Remembrance of the heritage.
+Hence, it is evident that, apart from archaeological remnants, Buddhism as a practiced religion is now only a matter of the historical past in these countries. Despite the efforts of individuals dedicated to preserving historical heritage, Buddhism is not actively practiced today but rather remembered for its legacy.
 
 ## Buddhist Art in Gandhara
 When Gandharan art first was discovered by the West, it was highly appreciated. But why? The Gandharan art reminded of their own western art and the structures already seemed familiar. 
