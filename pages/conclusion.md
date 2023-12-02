@@ -25,6 +25,8 @@ Andrew Zimmerman: Kolonialismus und ethnographische Sammlungen in Deutschland, i
 Arshad Awan: Remembering Pakistan's Buddhist Past. T-Magazine, 2022. 
 https://tribune.com.pk/story/2361090/remembering-pakistans-buddhist-past. Accessed 30 September 2023. 
 
+Dr. P. Karl Balthasar: Fransiskanerkloster und Missionsmuseum zu Dorsten i. W.. Düsseldorf 1921.
+
 Bernd Musch-Borowska: Zerstörung von Kulturstätten. “Barbarischer Akt religiöser Intoleranz.” Deutschlandfunk Kultur, 2020. https://www.deutschlandfunkkultur.de/zerstoerung-von-kulturstaetten-barbarischer-akt-religioeser-100.html. Accessed  27 September 2023. 
 
 Christopher Beckmann: Eine neue Welt ging mir auf: Die Reise des Abgeordneten Ernst Majonica nach Ostasien 1955/56, in: Historisch-Politische Mitteilungen 15, 2008. 
