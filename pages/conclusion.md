@@ -36,6 +36,7 @@ Erick D. Langer: Expecting Pears from an Elm Tree. Franciscan Missions on the Ch
 Ernst Majonica: Das politische Tagebuch 1958-1972, in: Forschungen und Quellen zur Zeitgeschichte Band 55, hrsg. von: Günter Buchstab, Klaus Gotto, Hans Günter Hockerts, Hanns Jürgen Küsters, Rudolf Morsey und Hans-Peter Schwarz, bearbeitet von Hans-Otto Kleinmann und Christopher Beckmann, Droste Verlag GmbH, Düsseldorf 2011. 
 
 Franziskaner Mission Dortmund. https://www.franziskanermission.de/?q=node/2. Accessed 15 September 2023. 
+
 Gandhara. Das buddhistische Erbe Pakistans, Legenden, Klöster und Paradiese,  anlässlich der Ausstellung "Gandhara" - das Buddhistische Erbe Pakistans. "Legenden, Klöster und Paradiese", Mainz 2008. 
 
 Gandhara Gallery. https://indianmuseumkolkata.org/gallery/gandhara-gallery/. Accessed 14 September 2023. 
