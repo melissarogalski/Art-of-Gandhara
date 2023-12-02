@@ -125,7 +125,7 @@ Other museums in Pakistan having Gandharan artefacts are the National Museum of 
 Surely interesting is to look at more museums portraying Gandhara worldwide - or to get a grasp of that to inspect a few of those.
 
 An collection of Gandharan objects can be found not far from Pakistan - namely in the Indian Museum Kolkata. The museum was founded in 1814, and is not only Indians oldest, but also the most multi diverse museum. At the foundation, interesting and curious objects were collected from all over India to be part of the exhibition.
-Today it has three main sections - Art, Archeology and Anthropology. The website shows a picture of the area in the museum dedicated to Gandhara, and it is about 25 objects showing significant events of the Buddhas life. The museum states, that they’re representing those to show the influence of Greek Culture on the indigenous Buddhist art from Gandhara. More detailed information about the objects isn’t given.
+Today it has three main sections - Art, Archeology and Anthropology. The website shows a picture of the area in the museum dedicated to Gandhara, and it is about 25 objects showing significant events of the Buddhas life. The museum states, that they’re representing those to show the influence of Greek Culture on the indigenous Buddhist art from Gandhara. More detailed information about the objects isn’t given. (“Gandhara Gallery.” Indian museum Kolkata. Web. 03 Nov 2023. [https://indianmuseumkolkata.org/gallery/gandhara-gallery/])
 
 ![Indian Museum Kolkata](/Art-of-Gandhara/assets/kolkatta.jpg)
 Indian Museum Kolkata
