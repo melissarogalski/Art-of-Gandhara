@@ -41,7 +41,7 @@ Gandhara. Das buddhistische Erbe Pakistans, Legenden, Klöster und Paradiese,  a
 
 Gandhara Gallery. https://indianmuseumkolkata.org/gallery/gandhara-gallery/. Accessed 14 September 2023. 
 
- Gudrun, Reinking: FORUM DER VÖLKER. Babylonien, Ägypten, Palästina, Ostasien, Papua-Neuguinea, Afrika, Nordamerika, Brasilien. Auswahlkatalog. hrsg. v. Forum der Völker, Werl 1989. 
+Gudrun, Reinking: FORUM DER VÖLKER. Babylonien, Ägypten, Palästina, Ostasien, Papua-Neuguinea, Afrika, Nordamerika, Brasilien. Auswahlkatalog. hrsg. v. Forum der Völker, Werl 1989. 
 
 Himanshu Prabha Ray (Editor): Buddhism and Gandara. An Archaeology of Museum Collections, 2019 (Archaeology and Religion in South Asia, Band 3). 
 
@@ -58,7 +58,6 @@ Lin Xiaoyi: “Largest Gandhara art exhibition unveiled at Palace Museum, showca
 Museum für Asiatische Kunst. Staatliche Museen Berlin. https://smb.museum-digital.de/institution/3. Accessed 14 September 2023.
 
 Regina Wonisch:  Reflexion kolonialer Vergangenheit in der musealen Gegenwart? Kuratorische Herausforderungen an der Schnittstelle von ethnologischen Museen und Kunst, 2. überarb. Aufl, in:  ifa-Edition Kultur und Außenpolitik. 
-
 https://nbn-resolving.org/urn:nbn:de:0168-ssoar-55097-1. Stuttgart 2018.
 
 “Stehender Bodhisattva”. Staatliche Museen Berlin- Museum für Asiatische Kunst. https://smb.museum-digital.de/object/63451. Accessed 14 September 2023.
