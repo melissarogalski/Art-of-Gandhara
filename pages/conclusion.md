@@ -56,6 +56,7 @@ Lahore Museum. https://lahoremuseum.punjab.gov.pk/taxonomy/term/10. Accessed 14 
 Lin Xiaoyi: “Largest Gandhara art exhibition unveiled at Palace Museum, showcasing long history of China-Pakistan exchanges along Silk Road”. Global Times, 2023.  https://www.globaltimes.cn/page/202303/1287410.shtml. Accessed 14 September 2023. 
 
 Museum für Asiatische Kunst. Staatliche Museen Berlin. https://smb.museum-digital.de/institution/3. Accessed 14 September 2023.
+
 Regina Wonisch:  Reflexion kolonialer Vergangenheit in der musealen Gegenwart? Kuratorische Herausforderungen an der Schnittstelle von ethnologischen Museen und Kunst, 2. überarb. Aufl, in:  ifa-Edition Kultur und Außenpolitik. 
 
 https://nbn-resolving.org/urn:nbn:de:0168-ssoar-55097-1. Stuttgart 2018.
