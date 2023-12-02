@@ -106,14 +106,14 @@ The Peshawar Museum, situated in the city of Peshawar, stands as the most import
 
 In addition to its focus on the Buddhist heritage of Gandhara, the museum features Mughal and Persian Islamic Art dating back to the periods when these empires ruled over Gandhara. It also includes general cultural items from the region, offering glimpses into everyday life.
 
-During its establishment in 1907, the museum's curator held the position of the Superintendent of the Archaeological Survey of India. Following Pakistan's independence and subsequent changes in 1992, the government set up its Directorate of Archaeology and Museums to preserve and protect archaeological heritage, with a specific emphasis on the Buddhist legacy of Gandhara. Consequently, the museum became an integral part of the Provincial Directorate, ensuring its ongoing role in safeguarding and showcasing the cultural richness of Gandhara.
+During its establishment in 1907, the museum's curator held the position of the Superintendent of the Archaeological Survey of India. Following Pakistan's independence and subsequent changes in 1992, the government set up its Directorate of Archaeology and Museums to preserve and protect archaeological heritage, with a specific emphasis on the Buddhist legacy of Gandhara. Consequently, the museum became an integral part of the Provincial Directorate, ensuring its ongoing role in safeguarding and showcasing the cultural richness of Gandhara. („Peshawar Museum.“ Directorate of Archeology and Museums, Khyber Pakhtunkhwa. Web. 03 Nov 2023. [https://kparchaeology.gkp.pk/peshawar_museum.php])
 
 ![Peshawar Museum](/Art-of-Gandhara/assets/peshawar.jpg)
 Peshawar Museum
 
 Another crucial museum in Pakistan is the Lahore Museum located in Punjab. While the museum expresses its aspiration to become a world-class institution and emphasizes goals such as preserving Pakistan's cultural heritage, conserving antiquities, educating the public, and promoting research on history, it is evident that it also houses a significant number of Gandharan objects, having one of the world's most extensive collections.
 
-A 360-degree picture on their website showcases the vast collection, providing additional information and images of significant objects. Notably, the sculpture of the Fasting Buddha, one of the most renowned Gandharan artifacts, is featured in their collection and on the website. From the online exhibition and the provided information, it is evident that the primary focus of the Lahore Museum is to educate the public about the rich Buddhist heritage, with a particular emphasis on Gandharan art.
+A 360-degree picture on their website showcases the vast collection, providing additional information and images of significant objects. Notably, the sculpture of the Fasting Buddha, one of the most renowned Gandharan artifacts, is featured in their collection and on the website. From the online exhibition and the provided information, it is evident that the primary focus of the Lahore Museum is to educate the public about the rich Buddhist heritage, with a particular emphasis on Gandharan art. („Gandhara Gallery.“ Lahore Museum. Web. 03 Nov 2023.[https://lahoremuseum.punjab.gov.pk/taxonomy/term/10])
 
 ![Lahore Museum](/Art-of-Gandhara/assets/lahore.jpg)
 ![Lahore Museum exhibition](/Art-of-Gandhara/assets/lahore2.jpg)
