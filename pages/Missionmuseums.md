@@ -30,7 +30,7 @@ The Forum der Völker Museum, located in Werl, North Rhine-Westphalia, Germany, 
 
 Established in 1909 in Dorsten, the museum was reconstructed in 1962 after being destroyed during World War II. It was later relocated to Werl and currently houses a collection of over fitfteen-thousand objects from outside the European continent (6.300 from the colonial context, 3.400 coins), including art and artefacts from East Asia, Africa, the Americas, Oceania, and the Middle East, all displayed across more than 1,000 square meters of exhibition space. 
 
-These objects were collected by about 95 missionaries and sisters and 16 monasteries or church institutions, or in some cases were purchased or donated by private collectors as Ernst Majonica, who brought the objects from Gandhara to Germany. 
+These objects were collected by about 95 missionaries and sisters and 16 monasteries or church institutions, or in some cases were purchased or donated by private collectors as Ernst Majonica, who brought the objects from Gandhara to Germany. (Information from the museums offcial flyer, p. 1)
 
 Despite undergoing multiple renovations and reorganisations since 1987, the museum is currently closed due to various reasons, mainly due to financial constraints.
 
@@ -51,7 +51,7 @@ Secondly, the protocol attempts to explain the purpose of collecting and exhibit
 
 Thirdly, the museum aimed to include objects that highlighted the positive aspects of diverse cultures. They collected items that they considered valuable from a European perspective while marginalising those they disagreed with. These objects mainly comprised of craftsmanship, including archaeological artefacts showcasing the rich history of various cultures, as well as paintings, silk, wood carvings, and specimens from nature.
 
-As the collection continued to grow over time, the museum in Dorsten was tragically destroyed during the Second World War, prompting the relocation of the objects. Then, a new facility was constructed in Werl, which opened its doors in 1962, allowing the collection to expand further. In 1986, it received a substantial addition in the form of a collection from Franciscan collectors in the Netherlands, comprising approximately 3,000 objects from diverse regions and cultures.
+As the collection continued to grow over time, the museum in Dorsten was tragically destroyed during the Second World War, prompting the relocation of the objects. Then, a new facility was constructed in Werl, which opened its doors in 1962, allowing the collection to expand further. In 1986, it received a substantial addition in the form of a collection from Franciscan collectors in the Netherlands, comprising approximately 3,000 objects from diverse regions and cultures. (Reinking, 1987, p. 1-12.)
 
 ## Franciscans missionaries in Dorsten
 Several individuals played pivotal roles as primary contributors to the early collection, with missionaries making significant contributions in subsequent years. While private purchases had been made before 1913, a notable early contribution came from Pater Romuald Uhrich, who brought the first objects from Egypt to the museum in 1913. This initial collection was later expanded through the private collection of Dr. von Hebentanz.
@@ -63,7 +63,7 @@ Today, there is a concerted effort to reshape the museum's narrative, moving awa
 
 The official catalog from 1989 states that while the objects were initially used to document missionary work, they are now viewed as artefacts that shed light on foreign cultures. They serve not only to understand but also to foster tolerance by broadening our own limited worldview. To achieve this, specialists from various fields were enlisted to catalog the collection in 1986, and the presentation of objects in the museum has been enhanced to create a more engaging visitor experience.
 
-In 1987, the museum underwent a significant transformation, culminating in its renaming to "Forum der Völker." This name change signifies an invitation to engage in dialogues with foreign cultures, people, and religions, with the aim of discovering common interests and a shared willingness to learn from one another. This pursuit is driven by the principles of justice, peace, and reverence for the divine creation, recognising that different religions may offer distinct paths leading to a common goal.
+In 1987, the museum underwent a significant transformation, culminating in its renaming to "Forum der Völker." This name change signifies an invitation to engage in dialogues with foreign cultures, people, and religions, with the aim of discovering common interests and a shared willingness to learn from one another. This pursuit is driven by the principles of justice, peace, and reverence for the divine creation, recognising that different religions may offer distinct paths leading to a common goal. (Reinking, 1987, p. 13)
 
 ## Structure of the museum
 
