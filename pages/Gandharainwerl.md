@@ -62,7 +62,7 @@ While the history and the restitution of stolen art, illegal trading and problem
 
 In many cases of German museums, it might even serve to reflect the collections which emerged during the colonial rule, and how the museum today should handle the ownership of these objects. 
 
-Additionally,  it also benefits the object itself - Provenance generates an authenticity and clears the question of ownership.
+Additionally,  it also benefits the object itself - Provenance generates an authenticity and clears the question of ownership. (Wonisch, 2018, p. 40-42)
 
 In the case of the objects from Gandhara, different advantages of knowing about the provenance can be listed: It could possibly tell us about how the Buddhist heritage was being handled during the time of the trade. It could also tell us why Ernst Majonica wanted to have them - did he see their value, so did he know about the Gandharan heritage (or did he even only wanted them because they looked “greek”)? 
 
