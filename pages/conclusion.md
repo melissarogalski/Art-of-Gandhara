@@ -27,6 +27,8 @@ https://tribune.com.pk/story/2361090/remembering-pakistans-buddhist-past. Access
 
 Bernd Musch-Borowska: Zerstörung von Kulturstätten. “Barbarischer Akt religiöser Intoleranz.” Deutschlandfunk Kultur, 2020. https://www.deutschlandfunkkultur.de/zerstoerung-von-kulturstaetten-barbarischer-akt-religioeser-100.html. Accessed  27 September 2023. 
 
+Bernard Andrae. Alexander der Große und sein buddhistisches Erbe. in: Gandhara: das buddhistsiche Erbe Pakistans; Legenden, Klöster und Pradise. Bonn 2008.
+
 Christopher Beckmann: Eine neue Welt ging mir auf: Die Reise des Abgeordneten Ernst Majonica nach Ostasien 1955/56, in: Historisch-Politische Mitteilungen 15, 2008. 
 
 Directorate Of Archaeology & Museums. Govt. of Khyber Pakhtunkhawa Peshawar. https://kparchaeology.gkp.pk/peshawar_museum.php. Accessed 14 September 2023. 
