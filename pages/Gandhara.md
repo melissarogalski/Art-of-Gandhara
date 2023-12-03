@@ -45,7 +45,7 @@ In the region of Afghanistan, Buddhism thrived in tandem with local communities 
 Nevertheless, the 8th to 9th century A.D marked the end of the Buddhist tradition here as well, finalized in the 14. century by the muslim invasion of the Indian subcontinent since the 12th century. (Hartmann, 2004, p. 37)
 
 ## Buddhism in Gandhara today 
-Buddhism in Gandhara has, over time, essentially diminished. In Pakistan, where 94% of the population is Muslim, religious minorities, including Hindus, face oppression. It's unsurprising that in 2017, only 1884 Buddhists were reported in Pakistan, with the country hosting just one Buddhist temple in Islamabad, primarily used by visiting Buddhists from abroad.
+Buddhism in Gandhara has, over time, essentially diminished. In Pakistan, where 94% of the population is Muslim, religious minorities, including Hindus, face oppression. It's unsurprising that in 2017, only 1884 Buddhists were reported in Pakistan, with the country hosting just one Buddhist temple in Islamabad, primarily used by visiting Buddhists from abroad. (Imtiaz Ahmad: Pakistan elections: Non-Muslim voters up by 30%, Hindus biggest minority." Hindustan Times. Web. 07 Nov 2023 (https://www.hindustantimes.com/world-news/pakistan-elections-non-muslim-voters-up-by-30-hindus-biggest-minority/story-gRmBeL4TaBBgY6ZTURRA7M.html)
 
 Afghanistan, despite being 99.9% Muslim, recorded 6282 Buddhists in 2013. However, there are no Buddhist temples for them, given the widespread oppression faced by Hindus and especially Christians. This oppression has intensified, particularly since the Taliban took over governmental control.
 
