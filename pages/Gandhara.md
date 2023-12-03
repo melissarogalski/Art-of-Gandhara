@@ -30,7 +30,7 @@ In ancient Gandhara, the invasion of Alexander the Great between 331 and 327 B.C
 
 Followed by the Mauryan Empire, King Ashoka in the 3rd century B.C was a major supporter of Buddhism, which led to the the establishment of Buddhism and its first Buddhist sites, although they initially lacked religious imagery. A total of six stupas have been built by him. (Falser, 2015, p. 9)
 
-Notably, the oldest written Buddhist text were written in Gandhara in the 1st. century B.C in the local Gandhari language. These were later brought to China via the silk road, and therefore te regionof Gandhara seems to have played an important role in the diffusion of Buddhism thorugh east-central Asia.
+Notably, the oldest written Buddhist text were written in Gandhara in the 1st. century B.C in the local Gandhari language. These were later brought to China via the silk road, and therefore te regionof Gandhara seems to have played an important role in the diffusion of Buddhism thorugh east-central Asia. (Heirmann; Bumbacher, 2007, p. 57)
 
 The 1st century A.D saw the emergence of Buddhist sculptures, coinciding with the peak of the Kushan Dynasty from the 1st to the 3rd century A.D., who weren’t Buddhists themselves, but Zoroastrians. They were tolerant towards all religions of their conquered areas reaching up to North India, and even actively encouraged the making of Buddhist art. 
 
@@ -38,11 +38,11 @@ There’s evidence from this period for different Buddhist schools in Gandhara, 
 
 The most prosperous era for Gandhara occurred from the 3rd to the 5th century A.D, marked by the production of iconic sculptures.
 
-However, from the 5th to 6th century A.D the Huns took control of Gandhara, leading to a decline in patronage for Buddhist sacred areas. Despite this decline, older sculptures continued to be used by Buddhist communities. Still, from there on Buddhism declined from the region and most Buddhist sites were deserted, until the conquest of Gandhara by Mahmud of Ghazni in the 11th century took place and finalized this process.
+However, from the 5th to 6th century A.D the Huns took control of Gandhara, leading to a decline in patronage for Buddhist sacred areas. Despite this decline, older sculptures continued to be used by Buddhist communities. Still, from there on Buddhism declined from the region and most Buddhist sites were deserted, until the conquest of Gandhara by Mahmud of Ghazni in the 11th century took place and finalized this process. (Heirmann; Bumbacher, 2007, p. 61)
 
 In the region of Afghanistan, Buddhism thrived in tandem with local communities from the 4th to the 8th century A.D. An extraordinary development occurred between 550 and 600 A.D when monumental Buddhas were constructed in Bamiyan, which was an important Buddhist site until the 7th century visited by pilgrims even coming from East Asia. 
 
-Nevertheless, the 8th to 9th century A.D marked the end of the Buddhist tradition here as well, finalized in the 14. century by the muslim invasion of the Indian subcontinent since the 12th century.
+Nevertheless, the 8th to 9th century A.D marked the end of the Buddhist tradition here as well, finalized in the 14. century by the muslim invasion of the Indian subcontinent since the 12th century. (Hartmann, 2004, p. 37)
 
 ## Buddhism in Gandhara today 
 Buddhism in Gandhara has, over time, essentially diminished. In Pakistan, where 94% of the population is Muslim, religious minorities, including Hindus, face oppression. It's unsurprising that in 2017, only 1884 Buddhists were reported in Pakistan, with the country hosting just one Buddhist temple in Islamabad, primarily used by visiting Buddhists from abroad.
