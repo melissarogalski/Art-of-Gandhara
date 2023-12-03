@@ -93,7 +93,7 @@ Pakistans handling of the Buddhist past seems harder to approach. It doesn’t s
 
 Unfortunately, not only Afghanistan, but also Pakistan suffered under the Taliban. The Swat Valley as a part of Greater Gandhara and todays Pakistan is rich on buddhist carvings, statues and stupas. Sadly, the Taliban destroyed stupas and statues from the Kushan era, and even relics from  the Swat Valley.
 
-Still, despite Pakistan being an Islamic republic, they still try and want to preserve all cultural heritage and historical sites and monuments, even if they are from different faiths and religions as they see the importance of their Buddhist heritage. Therefore, they grant Buddhist visitors security  to visit the sacred sites of the country- unfortunately not for the masses.
+Still, despite Pakistan being an Islamic republic, they still try and want to preserve all cultural heritage and historical sites and monuments, even if they are from different faiths and religions as they see the importance of their Buddhist heritage. Therefore, they grant Buddhist visitors security  to visit the sacred sites of the country- unfortunately not for the masses. (Amstutz, 2019, p. 242ff)
 
 So concluded, Pakistan is putting a lot of effort to preserve their Buddhist heritage by doing excavations and having museums portraying the objects for example, while still suffering from the destruction of objects and sites by the Taliban, and while not actively encouraging religious tourism. People from Afghanistan on the other hand have been and are trying to preserve what they’re able to, but are suffering under the Taliban regime which is actively destroying and erasing the Buddhist past.
 
