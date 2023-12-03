@@ -49,6 +49,8 @@ Gudrun, Reinking: FORUM DER VÖLKER. Babylonien, Ägypten, Palästina, Ostasien,
 
 Himanshu Prabha Ray (Editor): Buddhism and Gandara. An Archaeology of Museum Collections, 2019 (Archaeology and Religion in South Asia, Band 3). 
 
+Jens-Uwe Hartmann: Buddha's Forgotten Country. The history of Buddhism in Afghanistan. in: Fikrun wa Fann. Art & Thought 78, München 2004, p. 34-37.
+
 Jessie Pons. Gandharan art(s): methodologies and preliminary results of a stylistic analysis. in: The Geography of Gandharan Art. Oxford 2019.
 
 Karl Balthasar: Franziskanerkloster und Missionsmuseum zu Dorsten i. W., Druckerei des Provinzialates Düsseldorf, Düsseldorf 1921. 
