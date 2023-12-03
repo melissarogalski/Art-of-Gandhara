@@ -20,6 +20,8 @@ As a result, this websites functions to keep the work up longer than the average
 
 ## Bibliography
 
+Andrew Amstutz: A Pakistani Homeland for Buddhism: Displaying a National History for Pakistan beyond Islam, 1950-1969, in: South Asia: Journal of South Asian Studies 42, 2019, p. 237-255.
+
 Andrew Zimmerman: Kolonialismus und ethnographische Sammlungen in Deutschland, in: Europäische Erinnerungsorte Band 3: Europa und die Welt, hrsg von:  Pim den Boer, Heinz Duchhardt, Georg Kreis und Wolfgang Schmale, München 2012. 
 
 Ann Heirmann; Stephan Peter Bumbacher. The spread of Buddhism. 2007.
