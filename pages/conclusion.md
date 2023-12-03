@@ -53,6 +53,8 @@ Karl Balthasar: Franziskanerkloster und Missionsmuseum zu Dorsten i. W., Drucker
 
 Kurt A. Behrendt: The Art of Gandhara in the Metropolitan Museum of Art, Metropolitan Museum of Art, 2007. 
 
+Michael Falser. The Graeco-Buddhist style of Gandhara - a "Storia idelogica", or: how a discourse makes a global history of art. in: Journal of Art Historiography 13, 2015. p. 1-52.
+
 Michael Hollenbach: “Dekolonisierung- Mission im Museum.” Deutschlandfunk, 2021.https://www.deutschlandfunk.de/dekolonisierung-mission-im-museum-100.html. Accessed 14 September 2023. 
 
 Lahore Museum. https://lahoremuseum.punjab.gov.pk/taxonomy/term/10. Accessed 14 September 2023. 
