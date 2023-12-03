@@ -27,7 +27,7 @@ Ann Heirmann; Stephan Peter Bumbacher. The spread of Buddhism. 2007.
 Arshad Awan: Remembering Pakistan's Buddhist Past. T-Magazine, 2022. 
 https://tribune.com.pk/story/2361090/remembering-pakistans-buddhist-past. Accessed 30 September 2023. 
 
-Bernd Musch-Borowska: Zerstörung von Kulturstätten. “Barbarischer Akt religiöser Intoleranz.” Deutschlandfunk Kultur, 2020. https://www.deutschlandfunkkultur.de/zerstoerung-von-kulturstaetten-barbarischer-akt-religioeser-100.html. Accessed  27 September 2023. 
+Bernd Musch-Borowska: Zerstörung von Kulturstätten. “Barbarischer Akt religiöser Intoleranz.” Deutschlandfunk Kultur, 2020. https://www.deutschlandfunkkultur.de/zerstoerung-von-kulturstaetten-barbarischer-akt-religioeser-100.html. Accessed 27 September 2023. 
 
 Bernard Andrae. Alexander der Große und sein buddhistisches Erbe. in: Gandhara: das buddhistsiche Erbe Pakistans; Legenden, Klöster und Pradise, anlässlich der Ausstellung "Gandhara" - das Buddhistische Erbe Pakistans. "Legenden, Klöster und Paradiese", Mainz 2008. 
 
@@ -66,6 +66,8 @@ Lahore Museum. https://lahoremuseum.punjab.gov.pk/taxonomy/term/10. Accessed 14 
 Lin Xiaoyi: “Largest Gandhara art exhibition unveiled at Palace Museum, showcasing long history of China-Pakistan exchanges along Silk Road”. Global Times, 2023.  https://www.globaltimes.cn/page/202303/1287410.shtml. Accessed 14 September 2023. 
 
 Museum für Asiatische Kunst. Staatliche Museen Berlin. https://smb.museum-digital.de/institution/3. Accessed 14 September 2023.
+
+Imtiaz Ahmad: "Pakistan elections: Non-Muslim voters up by 30%, Hindus biggest minority." Hindustan Times, 2018. https://www.hindustantimes.com/world-news/pakistan-elections-non-muslim-voters-up-by-30-hindus-biggest-minority/story-gRmBeL4TaBBgY6ZTURRA7M.html. Accessed 07 November 2023.
 
 Regina Wonisch:  Reflexion kolonialer Vergangenheit in der musealen Gegenwart? Kuratorische Herausforderungen an der Schnittstelle von ethnologischen Museen und Kunst, 2. überarb. Aufl, in:  ifa-Edition Kultur und Außenpolitik. 
 https://nbn-resolving.org/urn:nbn:de:0168-ssoar-55097-1. Stuttgart 2018.
