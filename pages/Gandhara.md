@@ -15,7 +15,7 @@ The ancient region of Gandhara, situated in present-day northwest Pakistan and n
 The historical importance of this region is underscored by its early mentions in religious texts like the Mahabharata, one of the two Hindu epics containing more than 100,000 verses, and references by famous Chinese pilgrims such as Faxian and Xuanzang. Its geographical boundaries were naturally defined by the Hindu Kush mountain range to the west, the Indus River to the east, the city of Peshawar, and its basin opening onto the plains to the south, and to the north, the ancient region of Udyana with the Swat Valley. Beyond the Hindu Kush lay the ancient region of Nagarahara, with Bactria to its northwest. Together, these regions, including Gandhara, form what scholars sometimes refer to as "Greater Gandhara." Although interconnected in their development, they maintained a degree of independence.
 ("Remembering Pakistan's Buddhist past." Arshad Awan. T-Magazine. Web. 06 Nov 2023. [https://tribune.com.pk/story/2361090/remembering-pakistans-buddhist-past])
 
-It is through these geographical distinctions that we categorize art from Greater Gandhara, including pieces from the ancient Peshawar Basin, the Swat Valley, and Afghanistan.
+It is through these geographical distinctions that we categorize art from Greater Gandhara, including pieces from the ancient Peshawar Basin, the Swat Valley, and Afghanistan. (Pons, 2019, p. 4.
 
 ![Map of Gandhara](/Art-of-Gandhara/assets/Map.jpg)
 Map of Gandhara
