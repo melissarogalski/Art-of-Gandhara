@@ -26,9 +26,9 @@ To delve into Gandharan Art, it is essential to start with a brief overview of B
 
 The first mention of Gandhara has already been in the 9th century B.C as mentioned in the vedic Rigveda.
 
-In ancient Gandhara, the invasion of Alexander the Great between 331 and 327 B.C of Gandhara and Northwest India left an early influence of Buddhist art, which was kept up still 300 years later. 
+In ancient Gandhara, the invasion of Alexander the Great between 331 and 327 B.C of Gandhara and Northwest India left an early influence of Buddhist art, which was kept up still 300 years later. (Falser, 2015, p. 3)
 
-Followed by the Mauryan Empire, King Ashoka in the 3rd century B.C was a major supporter of Buddhism, which led to the the establishment of Buddhism and its first Buddhist sites, although they initially lacked religious imagery. A total of six stupas have been built by him. 
+Followed by the Mauryan Empire, King Ashoka in the 3rd century B.C was a major supporter of Buddhism, which led to the the establishment of Buddhism and its first Buddhist sites, although they initially lacked religious imagery. A total of six stupas have been built by him. (Falser, 2015, p. 9)
 
 Notably, the oldest written Buddhist text were written in Gandhara in the 1st. century B.C in the local Gandhari language. These were later brought to China via the silk road, and therefore te regionof Gandhara seems to have played an important role in the diffusion of Buddhism thorugh east-central Asia.
 
@@ -67,7 +67,7 @@ The enduring Greek influence persisted, influencing Buddhist art centuries later
 Despite these influences, Gandharan art remains distinctly Gandharan, a unique artistic expression of Buddhism. While Greek influence is visible of course, traces of Hinduism, Parthian aesthetics, and even Sassanid empire impacts are discernible. The artistic objects reflect the political and cultural changes in Gandhara, encompassing shifts between Buddhism and Hinduism, changes in dynasties, and conquests from both Western and Asian influences.
 
 
-Therefore, the objects reflect the political and cultural change which happened in Gandhara, from Buddhism being established besides Hinduism, from changes of dynasties and conquests from both western and asian sides.
+Therefore, the objects reflect the political and cultural change which happened in Gandhara, from Buddhism being established besides Hinduism, from changes of dynasties and conquests from both western and asian sides. (falser, 2015, p. 36/44)
 
 Surprisingly considering the impact of Buddhism on almost all regions of Asia, during this ancient period more sculptures, art and architecture has been made and found in greater Gandhara than anywhere else in South Asia, and this art has been in a state of changing from the beginning on showing different stages of Gandharan art, which were sometimes hard to date due to a lack of historical evidence and objects not found in archeological context. Instead, datings were possible to do with the help of greek coins as a vakuable dating resource. (Behrendt, 2007, p.3f.)
 
