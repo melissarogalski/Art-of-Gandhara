@@ -45,6 +45,8 @@ Gudrun, Reinking: FORUM DER VÖLKER. Babylonien, Ägypten, Palästina, Ostasien,
 
 Himanshu Prabha Ray (Editor): Buddhism and Gandara. An Archaeology of Museum Collections, 2019 (Archaeology and Religion in South Asia, Band 3). 
 
+Jessie Pons. Gandharan art(s): methodologies and preliminary results of a stylistic analysis. in: The Geography of Gandharan Art. Oxford 2019.
+
 Karl Balthasar: Franziskanerkloster und Missionsmuseum zu Dorsten i. W., Druckerei des Provinzialates Düsseldorf, Düsseldorf 1921. 
 
 Kurt A. Behrendt: The Art of Gandhara in the Metropolitan Museum of Art, Metropolitan Museum of Art, 2007. 
