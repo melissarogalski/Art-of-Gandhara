@@ -86,7 +86,7 @@ Unfortunately, there is inadequate separation between the labels for these objec
 
 The collection includes 13 objects showcased in glass cabinets, though there is room for improvement in terms of lighting. Nonetheless, each object can be observed. Smaller objects share a raised white shelf against a brownish wall, while larger objects have their dedicated shelves. One object is inexplicably hanging on the wall without a label providing essential information, while the twelve others are provided with those information.
 
-There are two notable criticisms regarding the labelling, as I trief to think of ways to improve those critics. 
+There are two notable criticisms regarding the labelling, as I tried to think of ways to improve those critics. 
 
 Firstly, the numbering of objects goes from one to fourteen, but object number 11 does not originate from Gandhara; instead, it is attributed to Nepal or China. This arrangement can be misleading for viewers who may not notice the discrepancy. It would make more sense for this object to be placed elsewhere in the collection alongside Chinese objects or be designated as number 14 to maintain a clearer distinction between Gandhara and the other regions. 
 
@@ -94,7 +94,7 @@ Firstly, the numbering of objects goes from one to fourteen, but object number 1
 Buddha head from China or Nepal
 
 Secondly, after object 14, the numbering continues, showcasing Buddhist objects from East Asia, without a visible differentiation between these vastly different regions.
-To enrich the collection, I could imagine a small seperation of these objects, simply by providing information abo7t the differences of Buddhism in Gandhara and Eastasia, perhabs even explaining the connection of both areas.
+To enrich the collection, I could imagine a small seperation of these objects, simply by providing information about the differences of Buddhism in Gandhara and Eastasia, perhabs even explaining the connection of both areas.
 
 In this section, a printed piece of paper is available for a fee of 0.10 euros, providing more detailed information about Buddhism, which is notably absent from the labels on the objects. This paper offers a good amount of general information, beginning with Theravada Buddhism (which is a somehwat outdated representation) and explaining the Four Noble Truths and the Eightfold Path. It then delves into Mahayana Buddhism, crucial because of its prevalence in East Asia. The third form of Buddhism, Tantra, is also briefly mentioned, characterised as a mystical and occult variant of Buddhism with secret religious texts and mantras. While this paper provides a general and not bad overview of Buddhism, which could benefit from updates since it provides a slightly outdated representation of Buddhism, it notably neglects to mention Gandhara, missing an opportunity to use objects from the collection as examples to elucidate the different developments of Buddhism. Therefore, a small update to make the paper more suitable to the connection could give a huge improvement to the collection.
 
