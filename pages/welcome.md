@@ -20,4 +20,4 @@ As a result, this website features digitalized images of the objects taken durin
 
 To look back on this project, I document the process undertaken throughout the summer semester of 2023. Now, in October 2023, the result of this research project has been presented through the publication of this website.
 
-#Enjoy exploring!
+Enjoy exploring!
